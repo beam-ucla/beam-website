@@ -1,0 +1,19 @@
+---
+layout: page
+title: BEAM Lesson Plans
+---
+
+{% for item in site.data.lessons.lessons %}
+<div class="card border-primary">
+	<div class="row">
+		<div class="col-6">
+			<img class="block-balance" src="{{site.baseurl}}/img/lessons/{{item[1].img}}" alt="{{ item[1].name }} lesson" />
+		</div>
+		<div class="col-6">
+			<h1>{{ item[1].name }}</h1>
+			<h2><a href="{{site.baseurl}}/files/{{item[1].file}}">Lesson Plan</a></h2>
+			<p>{{ item[1].blurb }}</p>
+		</div>
+	</div>
+</div>
+{% endfor %}
