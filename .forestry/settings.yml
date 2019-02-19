@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: files
+  label: Files
+  create: all
+  match: "**/*"
 - type: document
   path: _data/lessons.yml
   label: Lessons
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
