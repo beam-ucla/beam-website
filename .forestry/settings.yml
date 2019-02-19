@@ -5,8 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _/data/lessons.yml
-  label: Lessons YML File
+  path: _data/lessons.yml
+  label: Lessons
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
