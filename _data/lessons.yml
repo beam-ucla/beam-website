@@ -5,9 +5,33 @@ lessons:
     img: bridges.jpg
     blurb: >
       Students learn the fundamentals of how bridges work, exploring different types of bridges (e.g. suspension, beam, truss) and attempt to build their own!
+  microscopes:
+    name: Microscopes
+    file: microscopes-with-worksheet.pdf
+    img: microscopes.jpg
+    blurb: >
+      Students learn about the science behind microscopes, and examine everyday (and not-so-everyday) objects to see what they really look like up close!
+  oobleck:
+    name: Oobleck
+    file: oobleck.pdf
+    img: oobleck.jpg
+    blurb: >
+      Students learn about non-Newtonian fluids by creating and playing with one of the most bizzare materials imaginable!
+  mbots:
+    name: Robots (with mBots)
+    file: mbots.pdf
+    img: mbots.jpg
+    blurb: >
+      Students assemble and program their own robots to compete against each other, learning basic programming skills and a knowledge control systems along the way!
   rollercoasters:
     name: Rollercoasters
     file: rollercoasters.pdf
     img: rollercoasters.jpg
     blurb: >
-      Students feel the rush of rollercoasters as they learn about the relationship of potential and kinetic energy.
+      Students feel the rush of rollercoasters as they learn about the relationship between potential and kinetic energy, and try to make the largest rollercoaster possible!
+  rockets:
+    name: Stomp Rockets
+    file: stomp-rockets.pdf
+    img: rockets.jpg
+    blurb: >
+      Students learn about aerodynamics and how rockets are constructed, and then build and launch their own!

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bruin Engineers and Mentors
+title: Building Engineers and Mentors
 email: uclabeam@ucla.edu
 description: > # this means to ignore newlines until "baseurl:"
   Bruin Engineers and Mentors (BEAM) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English.  If BEAM sounds like a club that interests you, we encourage you to visit one of our weekly meetings!
