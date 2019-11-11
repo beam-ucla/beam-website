@@ -5,11 +5,11 @@ title: About BEAM
 
 ## About BEAM
 
-Bruin Engineers and Mentors (BEAM) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English.  If BEAM sounds like a club that interests you, we encourage you to visit one of our weekly meetings!
+BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English. If BEAM sounds like a club that interests you, we encourage you to visit one of our weekly meetings!
 
 ## Meeting Times
 
-We hold meetings every Tuesday at 6:00 pm in Boelter 7702.  We encourage anyone interested in joining to come to a meeting!
+We hold meetings every Tuesday at 6:00 pm in Boelter 7702. We encourage anyone interested in joining to come to a meeting!
 
 ## Site Visits
 
