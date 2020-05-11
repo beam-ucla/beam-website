@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.0.1"
 gem 'jekyll-seo-tag' # check out this https://jekyll.github.io/jekyll-seo-tag/usage/
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
