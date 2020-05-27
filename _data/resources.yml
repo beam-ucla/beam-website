@@ -1,0 +1,56 @@
+# images are stored in img/resources
+- name: "Amoeba Sisters"
+  link: "https://www.youtube.com/user/AmoebaSisters/videos"
+  blurb: "This is a fun YouTube channel that makes educational cartoons and lessons about science concepts. They have some great videos on cell biology, and do a great job of simplifying difficult concepts!"
+  img: "amoeba.png"
+
+
+- name: "Crash Course Kids"
+  link: "https://www.youtube.com/user/crashcoursekids/videos"
+  blurb: "Counterpart to CrashCourse for a younger audience. These videos mostly focus on simpler STEM concepts. Some provide explanations while others are more about having fun with science. They’d make a great supplement to our lessons."
+  img: "cckids.png"
+
+- name: "Crash Course"
+  link: "https://www.youtube.com/user/crashcourse/videos"
+  blurb: " Probably one of our favorite educational YouTube channels! They make fun and engaging videos that cover all topics from history to science to math. Many of the concepts are more advanced than elementary school level (many cover high school and even college concepts), but they do a great job explaining things."
+  img: "cc.png"
+
+- name: "Virtual Field Trips by The Nature Conservancy"
+  link: "https://www.nature.org/en-us/about-us/who-we-are/how-we-work/youth-engagement/nature-lab/virtual-field-trips/"
+  blurb: "Designed for grades 5-8 but customizable for all ages, virtual field trips allow students to travel the world and explore natural environments without leaving the classroom. Each virtual field trip contains a video, teacher guide, and student activities."
+  img: "natureconservancy.png"
+
+- name: "Art for Kids Hub"
+  link: "https://www.artforkidshub.com/how-to-draw/animals/ocean/page/2/"
+  blurb: "Drawing tutorials of all kinds made by a family with kids. Looks super cute and the videos are fun to follow along with, they have super simple ones and more advanced ones as well; they have lots of characters from shows as well as animals and what not!"
+  img: "arthub.png"
+
+- name: "Google AI Experiments"
+  link: "https://experiments.withgoogle.com/collection/ai"
+  blurb: "The drawing ones are especially good for the kids, and we could provide a brief explanation of how they work (provide a VERY large dataset to the computer as reference images so it can recognize the features of an image/drawing like the curve on the bottom of a boat drawing or the long trunk of a tree). They’re games, so really for any age in elementary school."
+  img: "googleai.png"
+
+- name: "Epicurious 4 Levels of Cooking"
+  link: "https://www.youtube.com/playlist?list=PLz3-p2q6vFYUDvVUu_aPhGUV-3ROIa6d2"
+  blurb: "They show the process of cooking a dish between chefs of three levels (Amateur, Home Cook, Professional Chef who specializes in the dish). For now they feature simple and fundamental recipes (fried rice, spaghetti, pancakes, omelets, cookies) and you get to see how the chefs at each level approach a recipe. At the end, the Level 4 (a food scientist) takes over and deconstructs what each chef has done, and the effect it has on their dish. This one might be more for middle school and up, but they get to learn how to cook and the science behind cooking."
+  img: "epicurious.png"
+
+- name: "Kurzgesagt - In a Nutshell"
+  link: "https://www.youtube.com/user/Kurzgesagt"
+  blurb: "Their relatively short (usually 10 min and under) animated videos tackle anything from (but not limited to) space, climate change, biology, technology, and philosophy. The animation is pretty unique and very well-done, and the storytelling is engaging."
+  img: "kg.png"
+
+- name: "Sick Science!"
+  link: "https://www.youtube.com/user/SteveSpanglerScience/playlists"
+  blurb: "A great YouTube channel where a teacher does super fun at home science experiments at home. There are a lot of themed playlists geared towards food, fun little tricks, and the different branches of science."
+  img: "sickscience.png"
+
+- name: "PBS Eons"
+  link: "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA/featured"
+  blurb: "A really interesting channel with a lot of content about paleontology, ancient life, and the history of the Earth. Lots of fun content about everything from dinosaurs to the first life on Earth!"
+  img: "pbseons.png"
+
+- name: "TED-Ed"
+  link: "https://www.youtube.com/user/TEDEducation"
+  blurb: " Animated lessons for a broad range of audience and on topics across STEM and humanities, including philosophy, media literacy, literature, nutrition, math in real life, art and climate. Some topics are targeted towards higher grade levels, but overall I think all of them are widely accessible and enjoyable across the age spectrum (K-12 to elderly)."
+  img: "teded.png"
