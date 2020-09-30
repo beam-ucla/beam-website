@@ -11,7 +11,7 @@ If BEAM sounds like a club that interests you, [fill out this form](https://form
 
 ## What about COVID-19? Is BEAM still active?
 
-Yes! While we can't do site visits in-person at the moment, we are still planning on teaching in the fall. All our lessons and curriculum meetings will take place over Zoom throughout fall quarter. We're working on adapting our existing lesson plans and developing new ones that will work well in a virtual format.
+Yes! While we can't do site visits in-person at the moment, we are still teaching our lessons virtually this fall. All our lessons and curriculum meetings will take place over Zoom throughout fall quarter. We're working on adapting our existing lesson plans and developing new ones that will work well in a virtual format.
 
 ## Why should I join BEAM?
 
@@ -23,15 +23,15 @@ Yes! BEAM is open to all majors, and we want to show students that science is fo
 
 ## How do I join?
 
-_Fall 2020 Update:_ We'll be hosting info sessions in mid/late August and week 1 or 2 of fall quarter. Stay tuned for specific dates! You can fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to receive email updates.
+We'll be hosting an **info session Wednesday of Week 1** (10/7) at 6pm ([zoom link](https://ucla.zoom.us/j/93399275480?pwd=TndrREZLU0o2K2R6Vm1CR05CSG5LQT09))! You can fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to receive email updates.
 
-Come out to our Tuesday night meetings at 6pm in Boelter 7702! No application necessary, and we accept new members year-round. You can also shoot us an email at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu).
+We have no formal application, and we accept new members year-round! Come out to our weekly Monday meetings at 6pm to get involved. You can find the zoom link on our [Facebook]({{site.facebook}}) or shoot us an email at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu).
 
 ## When/where do you meet?
 
-_Fall 2020 Update:_ Meeting dates & times TBD! All meetings and lessons will be over Zoom.
+We have weekly curriculum meetings Mondays from 6-7pm over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday we travel from campus to a local elementary school to give a lesson plan for students from 2:00 pm to 5:00 pm. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/).
 
-We have weekly curriculum meetings Tuesdays at 6pm in Boelter 7702. Every Thursday and Friday we travel from campus to a local elementary school to give a lesson plan for students from 2:00 pm to 5:00 pm. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/).
+Note: Lesson times will be Thursdays 3-4pm and Fridays 3-4pm over Zoom for Fall 2020 since no transportation time is needed.
 
 ## How much of a time commitment is BEAM?
 
