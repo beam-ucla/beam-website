@@ -10,7 +10,7 @@ title: Contact
 We're always looking for new mentors of any major to join our club!
 Fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to get emails from us about upcoming meetings.
 
-Check us out on [Facebook]({{site.facebook}}) and [Instagram]({{site.facebook}}) as well and feel free to email us at <a href="mailto:uclabeam@ucla.edu">uclabeam@ucla.edu</a>.
+Check us out on [Facebook]({{site.facebook}}) and [Instagram]({{site.instagram}}) as well and feel free to email us at <a href="mailto:uclabeam@ucla.edu">uclabeam@ucla.edu</a>.
 
 ### For UCLA Clubs & Organizations:
 
