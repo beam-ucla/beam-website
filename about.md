@@ -3,15 +3,24 @@ layout: page
 title: About BEAM and FAQs
 ---
 
+> **WINTER 2021 INFO SESSION**: 
+Monday, January 11 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/91395829842?pwd=UGxaMzJqYTYvSSt5cW5kSTc4aDFFdz09)
+
 ## What is BEAM? What does BEAM do?
 
 BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English.
 
 If BEAM sounds like a club that interests you, [fill out this form](https://forms.gle/TjkkNKZtcaP9qoHL7) and come to one of our weekly meetings!
 
+## How do I join?
+
+For winter 2021, we're holding an **info session on Monday, January 11 (week 2) from 6 to 7pm PT.** Zoom link [here](https://ucla.zoom.us/j/91395829842?pwd=UGxaMzJqYTYvSSt5cW5kSTc4aDFFdz09). You can fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to receive email updates or check out the event on [Facebook](https://www.facebook.com/events/256134659506356/).
+
+We have no formal application, and we accept new members year-round! Come out to our weekly Monday meetings at 6pm to get involved. You can find the zoom link on our [Facebook]({{site.facebook}}) or shoot us an email at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu).
+
 ## What about COVID-19? Is BEAM still active?
 
-Yes! While we can't do site visits in-person at the moment, we are still teaching our lessons virtually this fall. All our lessons and curriculum meetings will take place over Zoom throughout fall quarter. We're working on adapting our existing lesson plans and developing new ones that will work well in a virtual format.
+Yes! While we can't do site visits in-person at the moment, we are still teaching our lessons virtually this year. All our lessons and curriculum meetings will take place over Zoom throughout the 2020-2021 school year. We're working on adapting our existing lesson plans and developing new ones that will work well in a virtual format.
 
 ## Why should I join BEAM?
 
@@ -21,25 +30,17 @@ If you like working with kids, enjoy science, and want to meet some awesome new 
 
 Yes! BEAM is open to all majors, and we want to show students that science is for everyone! All the material we teach is geared towards 4th and 5th graders, and we go over each week's lesson before teaching it; don't worry if you've forgotten the material!
 
-## How do I join?
-
-We'll be hosting an **info session Wednesday of Week 1** (10/7) at 6pm ([zoom link](https://ucla.zoom.us/j/93399275480?pwd=TndrREZLU0o2K2R6Vm1CR05CSG5LQT09))! You can fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to receive email updates.
-
-We have no formal application, and we accept new members year-round! Come out to our weekly Monday meetings at 6pm to get involved. You can find the zoom link on our [Facebook]({{site.facebook}}) or shoot us an email at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu).
-
 ## When/where do you meet?
 
-We have weekly curriculum meetings Mondays from 6-7pm over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday we travel from campus to a local elementary school to give a lesson plan for students from 2:00 pm to 5:00 pm. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/).
-
-Note: Lesson times will be Thursdays 3-4pm and Fridays 3-4pm over Zoom for Fall 2020 since no transportation time is needed.
+We have weekly curriculum meetings Mondays from 6-7pm PT over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday, we teach our lesson plans to students via Zoom from 3pm to 4pm PT. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/).
 
 ## How much of a time commitment is BEAM?
 
-We have 1-hour curriculum meetings each week and two separate hour-long site visits (plus an hour of travel time each way). Members usually choose one site visit that works with their schedule. However, we know students are busy! If you need to miss meetings occasionally, we totally understand. If you can't make the Thursday or Friday site visits for a quarter, we still encourage you to come to curriculum meetings and stay involved!
+We have 1-hour curriculum meetings each week and two separate hour-long site visits (plus an hour of travel time each way in non-COVID times). Members usually choose one site visit that works with their schedule. However, we know students are busy! If you need to miss meetings occasionally, we totally understand. If you can't make the Thursday or Friday site visits for a quarter, we still encourage you to come to curriculum meetings and stay involved!
 
 ## Do I need to transport myself to site visits?
 
-Nope! We rent cars through UCLA and one of our members with a license drives everyone to site visits.
+Nope! Our lessons for the 2020-2021 are all virtual. When we return to in-person site visits, we rent cars through UCLA and one of our members with a license drives everyone to site visits.
 
 ## Who's behind BEAM?
 
