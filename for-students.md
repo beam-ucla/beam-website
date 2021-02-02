@@ -5,7 +5,9 @@ title: For Students
 ## Links and Videos For Students
 
 
-Welcome Melrose and Crescent Heights students! This page is for you to look back on all the cool stuff we did throughout the quarter. It has videos from the lessons and any additional resources that relate to what we've learned.
+Welcome Melrose and Crescent Heights students! This page is for you to look back on all the cool stuff we did throughout the quarter. Below is videos from lessons and any additional resources you may need.
+
+February 5th Crescent Heights Coding Lesson Link --> [Click here!](https://planet.mblock.cc/project/575606)
 
 ## Balloon Racers
 [![Balloon Racers](http://img.youtube.com/vi/_-Hf93S8EdY/0.jpg)](http://www.youtube.com/watch?v=_-Hf93S8EdY "Balloon Racers")
