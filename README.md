@@ -22,7 +22,7 @@ $ gem install bundler
 Then, we can clone our project and install its dependencies.
 
 ```bash
-$ git clone https://github.com/malsf21/beam-website.git
+$ git clone https://github.com/mattxwang/beam-website.git
 ...
 $ cd beam-website
 $ bundle
@@ -36,13 +36,13 @@ Finally, run:
 ```bash
 
 $ bundle exec jekyll serve
-Configuration file: /Users/malsf21/code/beam-website/_config.yml
-            Source: /Users/malsf21/code/beam-website
-       Destination: /Users/malsf21/code/beam-website/_site
+Configuration file: /Users/mattxwang/code/beam-website/_config.yml
+            Source: /Users/mattxwang/code/beam-website
+       Destination: /Users/mattxwang/code/beam-website/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
                     done in 0.348 seconds.
- Auto-regeneration: enabled for '/Users/malsf21/code/beam-website'
+ Auto-regeneration: enabled for '/Users/mattxwang/code/beam-website'
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 
@@ -50,4 +50,4 @@ Configuration file: /Users/malsf21/code/beam-website/_config.yml
 
 Visit whatever follows the server address line in your browser, which is usually [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 
-If you run into any issues, please let us know on our [issues tracker](https://github.com/malsf21/beam-website).
+If you run into any issues, please let us know on our [issues tracker](https://github.com/mattxwang/beam-website).
