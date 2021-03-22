@@ -3,20 +3,18 @@ layout: page
 title: About BEAM and FAQs
 ---
 
-> **WINTER 2021 INFO SESSION**: 
-Monday, January 11 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/91395829842?pwd=UGxaMzJqYTYvSSt5cW5kSTc4aDFFdz09)
+> **FIRST general meeting of spring quarter 2021:** 
+Monday, April 12 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/99896942410?pwd=VUhLYmt4M0ZicUNFcnI1RjRaSEJaUT09})
 
 ## What is BEAM? What does BEAM do?
 
-BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English.
+BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from biology to computer science to English.
 
-If BEAM sounds like a club that interests you, [fill out this form](https://forms.gle/TjkkNKZtcaP9qoHL7) and come to one of our weekly meetings!
+If BEAM sounds like a club that interests you, [fill out this form]({{site.interest_form}}) and come to one of our weekly meetings!
 
 ## How do I join?
 
-For winter 2021, we're holding an **info session on Monday, January 11 (week 2) from 6 to 7pm PT.** Zoom link [here](https://ucla.zoom.us/j/91395829842?pwd=UGxaMzJqYTYvSSt5cW5kSTc4aDFFdz09). You can fill out our [interest form](https://forms.gle/TjkkNKZtcaP9qoHL7) to receive email updates or check out the event on [Facebook](https://www.facebook.com/events/256134659506356/).
-
-We have no formal application, and we accept new members year-round! Come out to our weekly Monday meetings at 6pm to get involved. You can find the zoom link on our [Facebook]({{site.facebook}}) or shoot us an email at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu).
+**For spring 2021, our first general meeting will be Monday of Week 3 (April 12) at 6pm PT!** Zoom link [here](https://ucla.zoom.us/j/99896942410?pwd=VUhLYmt4M0ZicUNFcnI1RjRaSEJaUT09). You can fill out our [interest form]({{site.interest_form}}) to receive email updates. If you can't make it to our first meeting of the quarter, drop by any Monday at 6pm (same link as above); we're happy to get new members any time, and we don't have a formal application. Email us at [uclabeam@ucla.edu](mailto:uclabeam@ucla.edu) if you have any questions!
 
 ## What about COVID-19? Is BEAM still active?
 
@@ -49,5 +47,13 @@ Here's our board for the 2020-2021 school year:
 * **President:** Laurel Woods (Cognitive Science)
 * **Vice President:** Kara Levy (Materials Science & Engineering)
 * **Treasurer:** Alexandra Orloff (Mechanical Engineering)
+* **Secretary:** Rebecca Remple (Biology)
 * **Curriculum Director:** Mark Guevara (Computer Science) 
-* **Secretary:** Rebecca Rempel (Psychobiology)
+* **Curriculum Committee:** Karine Kim (Physiological Science & Anthropology)
+* **Curriculum Committee:** Maya Chatrathi (Electrical Engineering)
+* **Social Media Chair:** Joy Lee (Psychobiology)
+* **Outreach Chair:** Hannah Huie (Chemical Engineering)
+* **Design Director:** Masooma Hasnain (Geophysics)
+* **Social Chair:** Krisha Minocha (Computer Engineering)
+* **Supplies Manager:** Fionna Lim (Chemical Engineering)
+* **Dev Team:** Rowena Rahman (Bioengineering)
