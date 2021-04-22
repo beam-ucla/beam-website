@@ -35,3 +35,17 @@ slides: [click here](https://docs.google.com/presentation/d/1AM-fToM784-w3QKpcZO
 slides: [click here](https://docs.google.com/presentation/d/1Nmi3bhBFMOusep3Ruc0PjWRFQ74aN-btJA74BRoh_Kg/edit?usp=sharing)
 
 [![](http://img.youtube.com/vi/AeexpUv8LWY/0.jpg)](https://www.youtube.com/watch?v=AeexpUv8LWY&feature=emb_logo "Lungs")
+
+## Robots
+
+**Week 1: Monkey Game**
+
+Student guide: [click here](https://docs.google.com/document/d/1bOLGKz8TyRgxDFRQ3_MCaTXCmGfNBh50IS2yei94wSU/edit?usp=sharing)
+
+Project Skeleton: [click here](https://planet.mblock.cc/project/704475)
+
+**Week 2: Robot Assembly**
+
+Youtube Tutorial:
+
+[![](https://img.youtube.com/vi/rfpRkVGcApg/0.jpg)](http://www.youtube.com/watch?v=rfpRkVGcApg "Robot Assembly Tutorial")
