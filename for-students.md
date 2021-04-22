@@ -12,7 +12,7 @@ February 5th Crescent Heights Coding Lesson Link --> [Click here!](https://plane
 ## Balloon Racers
 [![Balloon Racers](https://img.youtube.com/vi/_-Hf93S8EdY/0.jpg)](https://www.youtube.com/watch?v=_-Hf93S8EdY "Balloon Racers")
 
-## Oobleck 
+## Oobleck
 
 [![Oobleck](https://img.youtube.com/vi/JJfppydyGHw/0.jpg)](https://www.youtube.com/watch?v=JJfppydyGHw "Oobleck")
 
@@ -34,4 +34,4 @@ slides: [click here](https://docs.google.com/presentation/d/1AM-fToM784-w3QKpcZO
 
 slides: [click here](https://docs.google.com/presentation/d/1Nmi3bhBFMOusep3Ruc0PjWRFQ74aN-btJA74BRoh_Kg/edit?usp=sharing)
 
-[![](http://img.youtube.com/vi/AeexpUv8LWY/0.jpg)](https://www.youtube.com/watch?v=AeexpUv8LWY&feature=emb_logo "Lungs")
+[![](https://img.youtube.com/vi/AeexpUv8LWY/0.jpg)](https://www.youtube.com/watch?v=AeexpUv8LWY&feature=emb_logo "Lungs")
