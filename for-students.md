@@ -10,7 +10,7 @@ Welcome Melrose and Crescent Heights students! This page is for you to look back
 ## Balloon Racers
 [![Balloon Racers](https://img.youtube.com/vi/_-Hf93S8EdY/0.jpg)](https://www.youtube.com/watch?v=_-Hf93S8EdY "Balloon Racers")
 
-## Oobleck 
+## Oobleck
 
 [![Oobleck](https://img.youtube.com/vi/JJfppydyGHw/0.jpg)](https://www.youtube.com/watch?v=JJfppydyGHw "Oobleck")
 
