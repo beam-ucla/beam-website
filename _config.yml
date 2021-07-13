@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://beam.ucla.edu" # the base hostname & protocol for your site, e.g. http://example.com
 facebook: "https://www.facebook.com/uclabeam/"
 instagram: "https://instagram.com/beam_ucla"
-interest_form: "https://forms.gle/4oyxVvwcp5MDVKFb9"
+interest_form: "https://docs.google.com/forms/d/e/1FAIpQLScvASHtEydXgQD_bC19ak4KgqcS9TxU5gJTWzzXyaVYL7fKww/viewform"
 
 # Build settings
 markdown: kramdown

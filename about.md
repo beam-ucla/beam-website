@@ -3,8 +3,8 @@ layout: page
 title: About BEAM and FAQs
 ---
 
-> **FIRST general meeting of spring quarter 2021:** 
-Monday, April 12 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/99896942410?pwd=VUhLYmt4M0ZicUNFcnI1RjRaSEJaUT09})
+<!-- > **FIRST general meeting of spring quarter 2021:** 
+Monday, April 12 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/99896942410?pwd=VUhLYmt4M0ZicUNFcnI1RjRaSEJaUT09}) -->
 
 ## What is BEAM? What does BEAM do?
 
