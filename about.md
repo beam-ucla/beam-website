@@ -3,12 +3,9 @@ layout: page
 title: About BEAM and FAQs
 ---
 
-> **FIRST general meeting of spring quarter 2021:** 
-Monday, April 12 @ 6pm PT --> [zoom link](https://ucla.zoom.us/j/99896942410?pwd=VUhLYmt4M0ZicUNFcnI1RjRaSEJaUT09})
-
 ## What is BEAM? What does BEAM do?
 
-BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from biology to computer science to English.
+BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM. Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from biology to computer science to English.
 
 If BEAM sounds like a club that interests you, [fill out this form]({{site.interest_form}}) and come to one of our weekly meetings!
 
@@ -44,16 +41,16 @@ Nope! Our lessons for the 2020-2021 are all virtual. When we return to in-person
 
 Here's our board for the 2020-2021 school year:
 
-* **President:** Laurel Woods (Cognitive Science)
-* **Vice President:** Kara Levy (Materials Science & Engineering)
-* **Treasurer:** Alexandra Orloff (Mechanical Engineering)
-* **Secretary:** Rebecca Remple (Biology)
-* **Curriculum Director:** Mark Guevara (Computer Science) 
-* **Curriculum Committee:** Karine Kim (Physiological Science & Anthropology)
-* **Curriculum Committee:** Maya Chatrathi (Electrical Engineering)
-* **Social Media Chair:** Joy Lee (Psychobiology)
-* **Outreach Chair:** Hannah Huie (Chemical Engineering)
-* **Design Director:** Masooma Hasnain (Geophysics)
-* **Social Chair:** Krisha Minocha (Computer Engineering)
-* **Supplies Manager:** Fionna Lim (Chemical Engineering)
-* **Dev Team:** Rowena Rahman (Bioengineering)
+- **President:** Laurel Woods (Cognitive Science)
+- **Vice President:** Kara Levy (Materials Science & Engineering)
+- **Treasurer:** Alexandra Orloff (Mechanical Engineering)
+- **Secretary:** Rebecca Remple (Biology)
+- **Curriculum Director:** Mark Guevara (Computer Science)
+- **Curriculum Committee:** Karine Kim (Physiological Science & Anthropology)
+- **Curriculum Committee:** Maya Chatrathi (Electrical Engineering)
+- **Social Media Chair:** Joy Lee (Psychobiology)
+- **Outreach Chair:** Hannah Huie (Chemical Engineering)
+- **Design Director:** Masooma Hasnain (Geophysics)
+- **Social Chair:** Krisha Minocha (Computer Engineering)
+- **Supplies Manager:** Fionna Lim (Chemical Engineering)
+- **Dev Team:** Rowena Rahman (Bioengineering)
