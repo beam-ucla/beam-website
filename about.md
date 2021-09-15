@@ -3,6 +3,8 @@ layout: page
 title: About BEAM and FAQs
 ---
 
+> **Fall GM will be held:** Tuesday, September 28 @ 6PM PST
+
 ## What is BEAM? What does BEAM do?
 
 BEAM (Building Engineers and Mentors) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM. Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from biology to computer science to English.
