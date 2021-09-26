@@ -29,7 +29,7 @@ Yes! BEAM is open to all majors, and we want to show students that science is fo
 
 ## When/where do you meet?
 
-We have weekly curriculum meetings Mondays from 6-7pm PT over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday, we teach our lesson plans to students via Zoom from 3pm to 4pm PT. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/) but we are also working on expanding!
+We have weekly curriculum meetings Tuesdays from 6-7pm PT over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday, we teach our lesson plans to students from 3pm to 4pm PT. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/) but we are also working on expanding!
 
 ## How much of a time commitment is BEAM?
 
@@ -37,7 +37,7 @@ We have 1-hour curriculum meetings each week and two separate hour-long site vis
 
 ## Do I need to transport myself to site visits?
 
-Nope! Our lessons for the 2020-2021 are all virtual. When we return to in-person site visits, we rent cars through UCLA and one of our members with a license drives everyone to site visits.
+Nope! We rent cars through UCLA and one of our members with a license drives everyone to site visits.
 
 ## Who's behind BEAM?
 
