@@ -17,7 +17,7 @@ You can fill out our [interest form]({{site.interest_form}}) to receive email up
 
 ## What about COVID-19? Is BEAM still active?
 
-Yes! While we can't do site visits in-person at the moment, we are still teaching our lessons virtually this year. All our lessons and curriculum meetings will take place over Zoom throughout the 2020-2021 school year. We're working on adapting our existing lesson plans and developing new ones that will work well in a virtual format.
+Yes! We taught all of our lessons virtually over Zoom throughout the 2020-2021 school year and kept up with a hands-on format by delivering supplies to our schools. If necessary we will return to this format for the 2021-2022 school year but we are currently working on getting access to our LAUSD sites for in-person site visits.
 
 ## Why should I join BEAM?
 
@@ -29,7 +29,7 @@ Yes! BEAM is open to all majors, and we want to show students that science is fo
 
 ## When/where do you meet?
 
-We have weekly curriculum meetings Mondays from 6-7pm PT over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday, we teach our lesson plans to students via Zoom from 3pm to 4pm PT. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/).
+We have weekly curriculum meetings Mondays from 6-7pm PT over Zoom (previously in Boelter 7702). We spend these meetings preparing our lesson for the week and working on any new curriculum needed. Every Thursday and Friday, we teach our lesson plans to students via Zoom from 3pm to 4pm PT. Current participating schools are [Melrose Elementary School](https://melrose-lausd-ca.schoolloop.com/) and [Crescent Heights Elementary School](https://crescentheightsmagnet-lausd-ca.schoolloop.com/) but we are also working on expanding!
 
 ## How much of a time commitment is BEAM?
 
