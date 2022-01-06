@@ -1,0 +1,33 @@
+---
+layout: page
+title: Great Science Resources
+description: Resources for students to learn more about science!
+nav-menu: true
+image: assets/images/mark.jpg
+---
+
+{% for item in site.data.resources %}
+<div class="card border-primary">
+  <div class="row">
+    <div class="col">
+      <div class="center-contents">
+        <a href="{{site.baseurl}}/files/{{item.link}}">
+          <img
+            class="block-balance"
+            src="{{site.baseurl}}/assets/images/resources/{{item.img}}"
+            alt="{{ item.name }} picture"
+          />
+        </a>
+      </div>
+    </div>
+    <div class="col">
+      <a
+        href="{{site.baseurl}}/files/{{item.link}}"
+        style="text-decoration: underline"
+        ><h1>{{ item.name }}</h1></a
+      >
+      <p>{{ item.blurb }}</p>
+    </div>
+  </div>
+</div>
+{% endfor %}
