@@ -1,40 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Building Engineers and Mentors
-email: uclabeam@ucla.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Bruin Engineers and Mentors (BEAM) brings hands-on science, technology, engineering, and math (STEM) activities to underserved K-8 schools across Los Angeles. Our program aims to improve student attitudes toward STEM.  Every week, we visit classes after school to perform experiments and give lessons covering various topics like biology, chemistry, or physics. Our members represent a variety of majors, from engineering to computer science to English.  If BEAM sounds like a club that interests you, we encourage you to visit one of our weekly meetings!
+# site settings
+title: BEAM
+subtitle: at UCLA
+email: youremailaddress@gmail.com
+description: Bringing STEM to elementary schools (because science is awesome!)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://beam.ucla.edu" # the base hostname & protocol for your site, e.g. http://example.com
-facebook: "https://www.facebook.com/uclabeam/"
-instagram: "https://instagram.com/beam_ucla"
+url: "https://bsiatucla.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+
 interest_form: "https://docs.google.com/forms/d/e/1FAIpQLScvASHtEydXgQD_bC19ak4KgqcS9TxU5gJTWzzXyaVYL7fKww/viewform"
 
-# Build settings
+# homepage tiles
+tiles-source: file # accepts "posts" or "pages" or "file"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub:
+  GitLab:
+  Google-Plus:
+  Instagram: https://www.instagram.com/
+  LinkedIn: https://www.linkedin.com/company/beam-at-ucla
+  Twitter:
+  Facebook: https://www.facebook.com/uclabeam/
+  Slack:
+  YouTube: https://www.youtube.com/channel/UCn-ajRq19ilJBtT1vf8b5sg
+
+# build settings
 markdown: kramdown
-plugins:
-  - jekyll-seo-tag
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+sass:
+  style: compressed
+
+exclude:
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md

@@ -1,0 +1,31 @@
+---
+layout: pageset
+title: BEAM Lesson Plans
+description: Learn more about our weekly lessons!
+nav-menu: true
+---
+
+{% for item in site.data.lessons.lessons %}
+<div class="card border-primary">
+  <div class="row">
+    <div class="col60">
+      <img
+        class="block-balance"
+        src="{{site.baseurl}}/assets/images/lessons/{{item[1].img}}"
+        alt="{{ item[1].name }} lesson"
+      />
+    </div>
+    <div class="col40">
+      <strong></strong>
+      <h1>
+        <a
+          href="{{site.baseurl}}/files/{{item[1].file}}"
+          style="text-decoration: underline"
+          >{{ item[1].name }}</a
+        >
+      </h1>
+      <p>{{ item[1].blurb }}</p>
+    </div>
+  </div>
+</div>
+{% endfor %}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+      <div class="inner">
+        <header class="major">
+          <h1>{{ page.landing-title }}</h1>
+        </header>
+        <div class="content">
+          <p style="text-transform: uppercase">{{ site.description }}</p>
+          <ul class="actions">
+            <li>
+              <a href="{{site.interest_form}}" class="button next scrolly"
+                >Get Involved</a
+              >
+            </li>
+
+            <li>
+              <a href="#contact" class="button next scrolly"
+                >Join Mailing List</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+      <!-- One -->
+      {% include sides.html %}
+      <!-- include a duration vaiable up there to auto scroll! But currently there is a glitch -->
+      <!-- Two -->
+      <section id="two">
+        <div class="inner">
+          <header class="major">
+            <h2>What do we teach?</h2>
+          </header>
+          <p>{{ content }}</p>
+          <ul class="actions">
+            <li>
+              <a href="pages/lessons.html" class="button next">Learn More</a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      {% include carousel.html width="100" height="80" unit="%" %}
+    </div>
+
+    {% include tiles.html %} {% include contact.html %} {% include footer.html
+    %}
+  </body>
+</html>

@@ -1,0 +1,21 @@
+nav:
+  - title: About
+    url: pages/about.html
+
+  - title: FAQs
+    url: pages/faqs.html
+
+  - title: Who Are We?
+    url: pages/who_are_we.html
+
+  - title: Lesson Plans
+    url: pages/lessons.html
+
+  - title: For Students
+    url: pages/for-students.html
+
+  - title: For Schools
+    url: pages/for-schools.html
+
+  - title: Contact Us
+    url: pages/contact.html
