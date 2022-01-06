@@ -1,34 +1,12 @@
-<!-- Wrapper -->
-<div id="wrapper">
-
-<!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<!-- <a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a> -->
-	<a href="{{ "" | absolute_url }}/" class="logo">
-		
-		<!-- <strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span> -->
-		<img src="{{site.baseurl}}/assets/images/logos/logotype.png" alt="BEAM logo" class = "logo_img"/>
-	
-	</a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
-</header>
-
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-        <!-- {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %} -->
-		{% for page in site.data.navigation.nav %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		{% endfor %}
-	</ul>
-	<!-- <ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul> -->
+<nav class="fixed-top bg-white border-bottom-secondary" style="z-index: 999">
+	<div class="nav-main">
+		<a class="nav-title text-primary" href="{{site.baseurl}}/index.html">BEAM</a>
+		<ul class="nav-list">
+			<li class="nav-item"><a href="{{site.baseurl}}/about.html">About/FAQs</a></li>
+			<li class="nav-item"><a href="{{site.baseurl}}/contact.html">Contact Us</a></li>
+			<li class="nav-item"><a href="{{site.baseurl}}/lessons.html">Lesson Plans</a></li>
+			<li class="nav-item"><a href="{{site.baseurl}}/resources.html">Resources</a></li>
+			<li class="nav-item"><a href="{{site.baseurl}}/for-students.html">For Students</a></li>
+		</ul>
+	</div>
 </nav>
