@@ -21,12 +21,13 @@ socials:
   GitHub:
   GitLab:
   Google-Plus:
+  YouTube: https://www.youtube.com/channel/UCn-ajRq19ilJBtT1vf8b5sg
   Instagram: https://www.instagram.com/
-  LinkedIn: https://www.linkedin.com/company/beam-at-ucla
   Twitter:
   Facebook: https://www.facebook.com/uclabeam/
   Slack:
-  YouTube: https://www.youtube.com/channel/UCn-ajRq19ilJBtT1vf8b5sg
+  LinkedIn: https://www.linkedin.com/company/beam-at-ucla
+
 
 # build settings
 markdown: kramdown
