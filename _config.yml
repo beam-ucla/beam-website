@@ -4,7 +4,7 @@ subtitle: at UCLA
 email: youremailaddress@gmail.com
 description: Bringing STEM to elementary schools (because science is awesome!)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bsiatucla.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://beam.ucla.edu" # the base hostname & protocol for your site, e.g. http://example.com
 author:
 
 interest_form: "https://docs.google.com/forms/d/e/1FAIpQLScvASHtEydXgQD_bC19ak4KgqcS9TxU5gJTWzzXyaVYL7fKww/viewform"
