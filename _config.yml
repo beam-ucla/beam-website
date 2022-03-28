@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://beam.ucla.edu" # the base hostname & protocol for your site, e.g. http://example.com
 author:
 
-interest_form: "https://docs.google.com/forms/d/1So5B685753qAXlFV9iV0u-CDgDUgXssLyw0etS1V1rY/"
+interest_form: "https://forms.gle/Gd1ie9LuJ8L4QVDr9"
 
 # homepage tiles
 tiles-source: file # accepts "posts" or "pages" or "file"
