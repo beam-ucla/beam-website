@@ -11,7 +11,7 @@ You can fill out our [interest form]({{site.interest_form}}) to receive email up
 
 ## What about COVID-19? Is BEAM still active?
 
-Yes! We taught all of our lessons virtually over Zoom throughout the 2020-2021 school year and kept up with a hands-on format by delivering supplies to our schools. If necessary we will return to this format for the 2021-2022 school year but we are currently working on getting access to our LAUSD sites for in-person site visits.
+Yes! We taught all of our lessons virtually over Zoom throughout the 2020-2021 school year and kept up with a hands-on format by delivering supplies to our schools. If necessary we will return to this format for the 2022-2023 school year but we are currently working on getting access to our LAUSD sites for in-person site visits.
 
 ## Why should I join BEAM?
 

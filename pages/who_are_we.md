@@ -5,7 +5,7 @@ description: Get to know the mentors
 nav-menu: true
 ---
 
-### Here's our board for the 2020-2021 school year:
+### Here's our board for the 2022-2023 school year:
 
 - **President:** Karine Kim (Physiological Science & Anthropology)
 - **Internal Vice President:** Hannah Huie (Chemical Engineering)
