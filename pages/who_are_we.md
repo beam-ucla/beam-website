@@ -7,18 +7,21 @@ nav-menu: true
 
 ### Here's our board for the 2020-2021 school year:
 
-- **President:** Kara Levy (Materials Science & Engineering)
-- **Internal Vice President:** Karine Kim (Physiological Science & Anthropology)
-- **External Vice President:** Hannah Huie (Chemical Engineering)
-- **Treasurer:** Joy Lee (Psychobiology)
-- **Secretary:** Rowena Rahman (Bioengineering)
-- **Curriculum Director:** Krisha Minocha (Computer Engineering)
-- **Curriculum Committee:** Teresa Garcia (Cognitive Science)
-- **Curriculum Committee:** Sachin Reddi (Biology)
-- **Curriculum Committee:** Nicole Elbaz-Deckel (Cognitive Science)
-- **Digital Media and Graphics Director:** Masooma Hasnain (Geophysics)
-- **Supplies Manager:** Maya Chatrathi (Electrical Engineering)
+- **President:** Karine Kim (Physiological Science & Anthropology)
+- **Internal Vice President:** Hannah Huie (Chemical Engineering)
+- **External Vice President:** Masooma Hasnain (Geophysics)
+- **Treasurer:** Maya Chatrathi (Electrical Engineering)
+- **Supplies Manager:** Justin Dong (Material Science and Engineering)
+- **Curriculum Director:** Nicole Elbaz-Deckel (Cognitive Science)
+- **Curriculum Committee:** Samantha Tinney (Mechanical Engineering)
+- **Curriculum Committee:** Courtney Lok (Biochemistry)
+<!-- - **Curriculum Committee:**  -->
+- **Secretary:** Rowena Rahman (MCDB)
+<!-- - **Digital Media and Graphics Director:**  -->
+- **Social Chair:** Keena Patel (Biology)
 - **Web Master:** Sudarshan Seshadri (Electrical Engineering)
+- **Advisor:** Kara Levy (Materials Science & Engineering)
+- **Advisor:** Joy Lee (Psychobiology)
 
 <!-- # Mentors
 
