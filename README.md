@@ -1,6 +1,4 @@
-# BSI Website
-
-Soon to be renamed to BSI!
+# BEAM Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/89e48d91-174d-4ab0-98e2-9d9f53c98ee9/deploy-status)](https://app.netlify.com/sites/confident-engelbart-3f10ae/deploys)
 
