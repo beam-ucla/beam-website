@@ -5,7 +5,7 @@
   url: pages/about.html
 
 - title: FAQs
-  description: Got a question about joining? Current BEAM operations? COVID? This is the page for you!
+  description: Got a question about joining? Current BEAM operations? This is the page for you!
   image: assets/images/mark.jpg
   url: pages/faqs.html
 
